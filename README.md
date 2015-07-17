@@ -5,3 +5,5 @@ behaviours once the end of the array is reached.
 
 
 Author: Tiago Augusto Engel (tengel@inf.ufsm.br)
+
+If you find something useful here, please refer the author =)
